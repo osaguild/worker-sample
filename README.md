@@ -18,5 +18,14 @@ Demo project for Spring Boot Worker
 | Packaging | Jar |
 | Java | 11 |
 
+### How to start
+```
+./gradlew bootRun
+```
+
+### How to stop
+```
+./gradlew -stop
+```
 
 
