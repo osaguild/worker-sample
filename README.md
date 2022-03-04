@@ -1,4 +1,4 @@
-# worker_sample
+# worker-sample
 
 ### Description
 Demo project for Spring Boot Worker
